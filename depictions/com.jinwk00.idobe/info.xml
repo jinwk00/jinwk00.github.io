@@ -1,0 +1,38 @@
+<package>
+	<id>com.jinwk00.idobe</id>
+	<name>Jin's iDobe</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard | com.anemonetheming.anemone</package>
+	</dependencies>
+	<shortDescription>Based from Adobe icons, variety of customizations</shortDescription>
+	<descriptionlist>
+		<description>Currently in Beta status.</description>
+		<description>It will include more icons and variations.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot from my loadout</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<!--
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	-->
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

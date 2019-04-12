@@ -1,10 +1,12 @@
 <changelog>
 	<changes>
-		<version>0.0.2</version>
-		<change>Added more third-party icons.</change>
-		<change>Fixed some Cydia-related app icons.</change>
 		<version>0.0.1</version>
 		<change>Initial beta release.</change>
 		<change>Includes most system icons and few third-party icons.</change>
 	</changes>
+	<changes>
+	<version>0.0.2</version>
+		<change>Added more third-party icons.</change>
+		<change>Fixed some Cydia-related app icons.</change>
+		</changes>
 </changelog>

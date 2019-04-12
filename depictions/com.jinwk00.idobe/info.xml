@@ -14,6 +14,7 @@
 	<descriptionlist>
 		<description>Currently in Beta status.</description>
 		<description>It will include more icons and variations.</description>
+		<description>Recommend setting the Custom Border Radius into 0.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -21,13 +22,13 @@
 			<image>cydia.jpg</image>
 		</screenshot>
 	</screenshots>
-	<!--
+	
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Release 0.0.1</change>
+		<change>Initial beta release.</change>
+		<change>Includes most system icons and few third-party icons.</change>
 	</changelog>
-	-->
+	
 	<links>
 		<link>
 			<name>/r/jailbreak</name>

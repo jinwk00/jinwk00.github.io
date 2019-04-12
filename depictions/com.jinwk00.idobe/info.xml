@@ -1,7 +1,7 @@
-<package>
+	<package>
 	<id>com.jinwk00.idobe</id>
 	<name>Jin's iDobe</name>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -25,9 +25,9 @@
 	</screenshots>
 	
 	<changelog>
-		<change>Release 0.0.1</change>
-		<change>Initial beta release.</change>
-		<change>Includes most system icons and few third-party icons.</change>
+		<change>Release 0.0.2</change>
+		<change>Added more third-party icons.</change>
+		<change>Fixed some Cydia-related app icons.</change>
 	</changelog>
 	
 	<links>

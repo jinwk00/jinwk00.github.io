@@ -10,5 +10,10 @@
 			<url>https://reddit.com/u/jinwk00</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
+		<link>
+			<name>Donate for my works using PayPal</name>
+			<url>https://paypal.me/jinwk00</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
 	</footerlinks>
 </repo>

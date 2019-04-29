@@ -8,5 +8,10 @@
 	<version>0.0.2</version>
 		<change>Added more third-party icons.</change>
 		<change>Fixed some Cydia-related app icons.</change>
-		</changes>
+	</changes>
+	<changes>
+	<version>0.0.3</version>
+		<change>Added even more third-party icons.</change>
+		<change>Fixed some 3rd-party app icon names.</change>
+	</changes>
 </changelog>

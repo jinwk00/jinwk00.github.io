@@ -12,22 +12,23 @@
 	</dependencies>
 	<shortDescription>Based from Adobe icons, variety of customizations</shortDescription>
 	<descriptionlist>
+		<description>iOS Icon Pack based from Adobe icons.</description>
 		<description>Currently in Beta status.</description>
-		<description>It will include more icons and variations, such as Dark/OLED background, no-border edition, etc.</description>
+		<description>It will include more icons and variations, such as
+		Dark/OLED background, no-border edition, etc.</description>
 		<description>Recommend setting the Custom Border Radius into 0.</description>
-		<description>To check my work status go here: https://docs.google.com/spreadsheets/d/1_uuoz4TZHCzT6mYfjPJWtM8wnNkrnqvO8pvEaLcHGTA/</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Screenshot from my loadout</description>
+			<description>Screenshot from my loadout (Based from 0.0.1)</description>
 			<image>cydia.jpg</image>
 		</screenshot>
 	</screenshots>
 	
 	<changelog>
-		<change>Release 0.0.2</change>
-		<change>Added more third-party icons.</change>
-		<change>Fixed some Cydia-related app icons.</change>
+		<change>Release 0.0.3</change>
+		<change>Added even more third-party icons.</change>
+		<change>Fixed some 3rd-party app icon names.</change>
 	</changelog>
 	
 	<links>

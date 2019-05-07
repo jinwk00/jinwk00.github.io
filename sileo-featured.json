@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://raw.githubusercontent.com/jinwk00/jinwk00.github.io/master/depictions/com.jinwk00.idobe/advertisement.png",
+        "title": "Jin's iDobe",
+        "package": "com.jinwk00.idobe",
+        "hideShadow": false
+    }
+  ]
+}

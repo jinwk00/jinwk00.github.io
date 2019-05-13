@@ -5,6 +5,7 @@ Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Description: Based from Adobe icons, variety of customizations
+Filename: ./debs/com.jinwk00.idobe_0.1.0_iphoneos-arm.deb
 Name: Jin's iDobe
 Installed-Size: 19296
 Author: jinwk00 <colinjinwk00@gmail.com>

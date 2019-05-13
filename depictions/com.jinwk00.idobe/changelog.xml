@@ -18,4 +18,9 @@
 	<version>0.0.4</version>
 		<change>Added icons to commemorate release of Chimera Jailbreak.</change>
 	</changes>
+	<changes>
+	<version>0.1.0</version>
+		<change>BIG UPDATE</change>
+		<change>Added NoBorders variant</change>
+	</changes>
 </changelog>

@@ -23,7 +23,12 @@
 		<change>BIG UPDATE</change>
 		<change>Added NoBorders variant</change>
 	</changes>
+	<changes>
 	<version>0.1.1</version>
 		<change>Even more icons (sorry only for square borders for now)</change>
+	</changes>
+	<changes>
+	<version>0.1.2</version>
+		<change>Yet even more icons (sorry only for square borders for now)</change>
 	</changes>
 </changelog>

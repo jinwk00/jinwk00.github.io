@@ -1,0 +1,30 @@
+	<package>
+	<id>com.jinwk00.iterial-settings</id>
+	<name>Jin's iTerial-Settings Icon</name>
+	<version>0.0.1.test</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard | com.anemonetheming.anemone</package>
+	</dependencies>
+	<shortDescription>iTerial Settings Icon Test, Only contains few icons</shortDescription>
+	<descriptionlist>
+		<description>iOS Icon Pack based from Adobe icons.</description>
+	</descriptionlist>
+	
+	<changelog>
+		<version>0.0.1.test</version>
+		<change>Initial Alpha.</change>
+	</changelog>
+	
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

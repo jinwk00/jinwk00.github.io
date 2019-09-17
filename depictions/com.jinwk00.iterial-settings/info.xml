@@ -12,12 +12,12 @@
 	</dependencies>
 	<shortDescription>iTerial Settings Icon Test, Only contains few icons</shortDescription>
 	<descriptionlist>
-		<description>iOS Icon Pack based from Adobe icons.</description>
+		<description>iOS Settings Icon Pack based from Material Design.</description>
 	</descriptionlist>
 	
 	<changelog>
-		<version>0.0.1.test</version>
-		<change>Initial Alpha.</change>
+		<version>0.0.2.test</version>
+		<change>Added 2 more packs.</change>
 	</changelog>
 	
 	<links>

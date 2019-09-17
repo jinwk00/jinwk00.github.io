@@ -3,4 +3,8 @@
 		<version>0.0.1.test</version>
 		<change>Initial alpha.</change>
 	</changes>
+	<changes>
+		<version>0.0.2.test</version>
+		<change>Added 2 more packs.</change>
+	</changes>
 </changelog>

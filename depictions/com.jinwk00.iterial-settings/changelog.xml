@@ -11,4 +11,8 @@
 		<version>0.0.3.test</version>
 		<change>Fixed and added some icons.</change>
 	</changes>
+	<changes>
+		<version>0.0.4</version>
+		<change>Added more icons and smoothed 'em out.</change>
+	</changes>
 </changelog>

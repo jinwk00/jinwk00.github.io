@@ -1,23 +1,23 @@
 	<package>
 	<id>com.jinwk00.iterial-settings</id>
 	<name>Jin's iTerial-Settings Icon</name>
-	<version>0.0.1.test</version>
+	<version>0.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.spark.snowboard | com.anemonetheming.anemone</package>
+		<package>com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer</package>
 	</dependencies>
-	<shortDescription>iTerial Settings Icon Test, Only contains few icons</shortDescription>
+	<shortDescription>iTerial Settings Icons</shortDescription>
 	<descriptionlist>
 		<description>iOS Settings Icon Pack based from Material Design.</description>
 	</descriptionlist>
 	
 	<changelog>
-		<version>0.0.3.test</version>
-		<change>Fixed and added some icons.</change>
+		<version>0.0.4</version>
+		<change>Added more icons and smoothed 'em out.</change>
 	</changelog>
 	
 	<links>

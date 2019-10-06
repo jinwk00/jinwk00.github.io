@@ -1,7 +1,7 @@
 	<package>
 	<id>com.jinwk00.iterial-settings</id>
 	<name>Jin's iTerial-Settings Icon</name>
-	<version>0.0.4</version>
+	<version>0.0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -14,10 +14,16 @@
 	<descriptionlist>
 		<description>iOS Settings Icon Pack based from Material Design.</description>
 	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot from Settings (Based from 0.0.4)</description>
+			<image>cydia.png</image>
+		</screenshot>
+	</screenshots>
 	
 	<changelog>
-		<version>0.0.4</version>
-		<change>Added more icons and smoothed 'em out.</change>
+		<version>0.0.5</version>
+		<change>Added 2x and 3x variations, hopefully VPN working...</change>
 	</changelog>
 	
 	<links>

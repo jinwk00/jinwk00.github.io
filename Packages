@@ -13,7 +13,7 @@ MD5Sum: 4568183d0887615e1b1f4ed53964d6ca
 SHA256: 94a59b9cbfa32a61803feb3da2c20f61e9c682e5c24484ab0ea5a86dd19fe52e
 
 Package: com.jinwk00.iterial-settings
-Version: 0.0.4
+Version: 0.0.5
 Section: Themes
 Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Description: iTerial Settings Icons
 Filename: ./debs/com.jinwk00.iterial-settings_0.0.4_iphoneos-arm.deb
 Name: Jin's iTerial-Settings Icon
-Installed-Size: 694
+Installed-Size: 1265
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: 7D83D744AE74CC20C366EF83B05EB7DE
-SHA256: 215765441733C11B0CB8409728E061E10AA5A0ACB77BD57C0ABCEA7FDC67C2C3
+MD5Sum: 044AC3D73C287AE37FA70C5A0FC3D7C225E24828
+SHA256: B763BC43B784EDC21A0D0B7B864D7EE6066D2C4DC328E9EF1C15532BBE7DEBEA

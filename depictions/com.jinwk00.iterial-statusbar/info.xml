@@ -1,0 +1,30 @@
+	<package>
+	<id>com.jinwk00.iterial-statusbar</id>
+	<name>Jin's iTerial-Status Bar</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer</package>
+	</dependencies>
+	<shortDescription>iTerial Status Bar Icons</shortDescription>
+	<descriptionlist>
+		<description>iOS Status Bar Icon based from Material Design.</description>
+	</descriptionlist>
+	
+	<changelog>
+		<version>0.1</version>
+		<change>Initial beta.</change>
+	</changelog>
+	
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

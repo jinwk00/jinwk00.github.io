@@ -13,29 +13,29 @@ MD5Sum: 4568183d0887615e1b1f4ed53964d6ca
 SHA256: 94a59b9cbfa32a61803feb3da2c20f61e9c682e5c24484ab0ea5a86dd19fe52e
 
 Package: com.jinwk00.iterial-settings
-Version: 0.0.5
+Version: 0.0.6
 Section: Themes
 Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
 Architecture: iphoneos-arm
 Description: iTerial Settings Icons
-Filename: ./debs/com.jinwk00.iterial-settings_0.0.5_iphoneos-arm.deb
+Filename: ./debs/com.jinwk00.iterial-settings_0.0.6_iphoneos-arm.deb
 Name: Jin's iTerial-Settings Icon
-Installed-Size: 1265
+Installed-Size: 1229
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: 044AC3D73C287AE37FA70C5A0FC3D7C225E24828
-SHA256: B763BC43B784EDC21A0D0B7B864D7EE6066D2C4DC328E9EF1C15532BBE7DEBEA
+MD5Sum: 400B4253D0EC924DB5263E9DEA5C508C
+SHA256: C35734722C12DE54AA4054C6213EFCE93500AF83D94AAC64BD8DC3EF54C7BF8F
 
 Package: com.jinwk00.iterial-statusbar
-Version: 0.1
+Version: 0.1.1
 Section: Themes
 Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
 Architecture: iphoneos-arm
 Description: iTerial Status Bar Icons
-Filename: ./debs/com.jinwk00.iterial-statusbar_0.1_iphoneos-arm.deb
+Filename: ./debs/com.jinwk00.iterial-statusbar_0.1.1_iphoneos-arm.deb
 Name: Jin's iTerial-Status Bar
 Installed-Size: 32
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: 615B19F52C684586178CA8EB80885EA6
-SHA256: 808CE12BB1943AB99419D750F14725E1D2738066699586CCD6ED47574B72D3AB
+MD5Sum: 9669F891A817B4F04CB2AF1E566A4F7E
+SHA256: 2F1AD2CAF48DA5E4EA4199B57412A969FF682954B068E56C3EBEC8819C548F16

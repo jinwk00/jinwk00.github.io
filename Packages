@@ -23,8 +23,8 @@ Filename: ./debs/com.jinwk00.iterial-settings_0.0.6_iphoneos-arm.deb
 Name: Jin's iTerial-Settings Icon
 Installed-Size: 1229
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: 400B4253D0EC924DB5263E9DEA5C508C
-SHA256: C35734722C12DE54AA4054C6213EFCE93500AF83D94AAC64BD8DC3EF54C7BF8F
+MD5Sum: 400b4253d0ec924db5263e9dea5c508c
+SHA256: c35734722c12de54aa4054c6213efce93500af83d94aac64bd8dc3ef54c7bf8f
 
 Package: com.jinwk00.iterial-statusbar
 Version: 0.1.1
@@ -37,5 +37,5 @@ Filename: ./debs/com.jinwk00.iterial-statusbar_0.1.1_iphoneos-arm.deb
 Name: Jin's iTerial-Status Bar
 Installed-Size: 32
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: 9669F891A817B4F04CB2AF1E566A4F7E
-SHA256: 2F1AD2CAF48DA5E4EA4199B57412A969FF682954B068E56C3EBEC8819C548F16
+MD5Sum: 9669f891a817b4f04cb2af1e566a4f7e
+SHA256: 2f1ad2caf48da5e4ea4199b57412a969ff682954b068e56c3ebec8819c548f16

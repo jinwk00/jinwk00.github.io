@@ -16,20 +16,27 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Screenshot from Settings (Based from 0.0.4)</description>
+			<description>Screenshot from my Settings (Based from 0.0.4)</description>
 			<image>cydia.png</image>
 		</screenshot>
 	</screenshots>
 	
 	<changelog>
 		<version>0.0.6</version>
-		<change>Added Siri & Search icon.</change>
+		<change>Added Siri and Search icon.</change>
 	</changelog>
 	
 	<links>
 		<link>
 			<name>/r/jailbreak</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+	<links>
+		<link>
+			<name>/r/iOSThemes</name>
+			<url>https://www.reddit.com/r/iosthemes</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>

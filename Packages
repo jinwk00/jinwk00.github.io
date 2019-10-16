@@ -5,6 +5,7 @@ Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Description: Based from Adobe icons, variety of customizations
+Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.idobe
 Filename: ./debs/com.jinwk00.idobe_0.1.2_iphoneos-arm.deb
 Name: Jin's iDobe
 Installed-Size: 22548
@@ -19,6 +20,7 @@ Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
 Architecture: iphoneos-arm
 Description: iTerial Settings Icons
+Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.iterial-settings
 Filename: ./debs/com.jinwk00.iterial-settings_0.0.6_iphoneos-arm.deb
 Name: Jin's iTerial-Settings Icon
 Installed-Size: 1229
@@ -33,6 +35,7 @@ Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
 Architecture: iphoneos-arm
 Description: iTerial Status Bar Icons
+Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.iterial-statusbar
 Filename: ./debs/com.jinwk00.iterial-statusbar_0.1.1_iphoneos-arm.deb
 Name: Jin's iTerial-Status Bar
 Installed-Size: 32

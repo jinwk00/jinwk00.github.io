@@ -11,6 +11,11 @@
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 		<link>
+			<name>Join iOS Jailbreak Telegram Channel to help my works</name>
+			<url>https://t.me/jailbreak</url>
+			<iconclass> fa fa-telegram</iconclass>
+		</link>
+		<link>
 			<name>Donate for my works using PayPal</name>
 			<url>https://paypal.me/jinwk00</url>
 			<iconclass>fa fa-paypal</iconclass>

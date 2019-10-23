@@ -42,3 +42,18 @@ Installed-Size: 32
 Author: jinwk00 <colinjinwk00@gmail.com>
 MD5Sum: 9669f891a817b4f04cb2af1e566a4f7e
 SHA256: 2f1ad2caf48da5e4ea4199b57412a969ff682954b068e56c3ebec8819c548f16
+
+Package: com.jinwk00.iterial-cc
+Version: 0.0.1
+Section: Themes
+Maintainer: jinwk00 <colinjinwk00@gmail.com>
+Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
+Architecture: iphoneos-arm
+Description: iTerial CC Icons
+Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.iterial-cc
+Filename: ./debs/com.jinwk00.iterial-cc.0.1_iphoneos-arm.deb
+Name: Jin's iTerial-CC Icon
+Installed-Size: 25
+Author: jinwk00 <colinjinwk00@gmail.com>
+MD5Sum: db5846186bba2cc0cf06585f7681246f
+SHA256: 637d69a079eccec7333bd171d029aa9a762cb79f71a60e1acf651db7369260bb

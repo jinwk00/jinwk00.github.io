@@ -1,0 +1,37 @@
+	<package>
+	<id>com.jinwk00.iterial-cc</id>
+	<name>Jin's iTerial-CC Icon</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer</package>
+	</dependencies>
+	<shortDescription>iTerial CC Icon</shortDescription>
+	<descriptionlist>
+		<description>iOS CC Icon Pack based from Material Design. Only includes very few icons.</description>
+	</descriptionlist>
+	
+	<changelog>
+		<version>0.0.1</version>
+		<change>First alpha.</change>
+	</changelog>
+	
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+	<links>
+		<link>
+			<name>/r/iOSThemes</name>
+			<url>https://www.reddit.com/r/iosthemes</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

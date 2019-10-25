@@ -51,7 +51,7 @@ Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.it
 Architecture: iphoneos-arm
 Description: iTerial CC Icons
 Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.iterial-cc
-Filename: ./debs/com.jinwk00.iterial-cc.0.1_iphoneos-arm.deb
+Filename: ./debs/com.jinwk00.iterial-cc.0.0.1_iphoneos-arm.deb
 Name: Jin's iTerial-CC Icon
 Installed-Size: 25
 Author: jinwk00 <colinjinwk00@gmail.com>

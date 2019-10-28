@@ -58,18 +58,19 @@ Author: jinwk00 <colinjinwk00@gmail.com>
 MD5Sum: db5846186bba2cc0cf06585f7681246f
 SHA256: 637d69a079eccec7333bd171d029aa9a762cb79f71a60e1acf651db7369260bb
 
-Package: com.jinwk00.ios10cellular
-Version: 1.0
+Package: com.jinwk00.iterial-ui
+Version: 0.0.2
 Section: Themes
 Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
 Architecture: iphoneos-arm
-Description: Adjusted as 4 Dots cuz iOS 12
-Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.ios10cellular/
-Filename: ./debs/com.jinwk00.ios10cellular_1.0_iphoneos-arm.deb
-Name: iOS 10 Cellular Icon (4 Dots) for iOS 12
-Installed-Size: 38
+Description: iTerial UI Icons
+Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.iterial-ui
+Filename: ./debs/com.jinwk00.iterial-ui_0.0.2_iphoneos-arm.deb
+Name: Jin's iTerial-UI Icon Test
+Installed-Size: 149
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: 0870370c5f34ca93d4d25e0fa551b2f3
-SHA256: 997a9f63ccc1be5235fafd5f8e785e305de73310acda592806209e96b1daeeca
+MD5Sum: d000a2d38440ab7231009f62577ea257
+SHA256: 32ff67841af1bcf3c7ce52fc5cc47c887722a8c72752baf436c4eda8c9e821b3
+
 

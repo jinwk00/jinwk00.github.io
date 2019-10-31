@@ -44,33 +44,33 @@ MD5Sum: 9669f891a817b4f04cb2af1e566a4f7e
 SHA256: 2f1ad2caf48da5e4ea4199b57412a969ff682954b068e56c3ebec8819c548f16
 
 Package: com.jinwk00.iterial-cc
-Version: 0.0.1
+Version: 0.0.2
 Section: Themes
 Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
 Architecture: iphoneos-arm
 Description: iTerial CC Icons
 Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.iterial-cc
-Filename: ./debs/com.jinwk00.iterial-cc_0.0.1_iphoneos-arm.deb
+Filename: ./debs/com.jinwk00.iterial-cc_0.0.2_iphoneos-arm.deb
 Name: Jin's iTerial-CC Icon
-Installed-Size: 25
+Installed-Size: 51
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: db5846186bba2cc0cf06585f7681246f
-SHA256: 637d69a079eccec7333bd171d029aa9a762cb79f71a60e1acf651db7369260bb
+MD5Sum: 4d3f22a101cf0842fbc1a84e039a06fa
+SHA256: e7f494d8abf0fff3c06bb05637f64b38ec0fe844a60d4c3efbf387f797ceab3e
 
 Package: com.jinwk00.iterial-ui
-Version: 0.0.2
+Version: 0.0.3
 Section: Themes
 Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
 Architecture: iphoneos-arm
 Description: iTerial UI Icons
 Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.iterial-ui
-Filename: ./debs/com.jinwk00.iterial-ui_0.0.2_iphoneos-arm.deb
+Filename: ./debs/com.jinwk00.iterial-ui_0.0.3_iphoneos-arm.deb
 Name: Jin's iTerial-UI Icon Test
-Installed-Size: 149
+Installed-Size: 196
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: d000a2d38440ab7231009f62577ea257
-SHA256: 32ff67841af1bcf3c7ce52fc5cc47c887722a8c72752baf436c4eda8c9e821b3
+MD5Sum: cc1cf38e5bf673ffc59650ebde011c05
+SHA256: e0eeb3593ff02f3957a8c579ba01ce38fe3fd4f907e877f0bc5bdd507a334a83
 
 

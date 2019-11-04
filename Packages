@@ -14,19 +14,19 @@ MD5Sum: 4568183d0887615e1b1f4ed53964d6ca
 SHA256: 94a59b9cbfa32a61803feb3da2c20f61e9c682e5c24484ab0ea5a86dd19fe52e
 
 Package: com.jinwk00.iterial-settings
-Version: 1.0
+Version: 1.0.1
 Section: Themes
 Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
 Architecture: iphoneos-arm
 Description: iTerial Settings Icons
 Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.iterial-settings
-Filename: ./debs/com.jinwk00.iterial-settings_1.0_iphoneos-arm.deb
+Filename: ./debs/com.jinwk00.iterial-settings_1.0.1_iphoneos-arm.deb
 Name: Jin's iTerial-Settings Icon
-Installed-Size: 1573
+Installed-Size: 1591
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: c1500e17876716d9745a25c0db2a2bd3
-SHA256: 2fabb26559292975b6893acfc8ce9b59b235c33e5331104f18e814a48634d756
+MD5Sum: 6931ced61f9a97a21c5887e033b6508f
+SHA256: af93f8a75a0f2221ae2e63de82e825b5042a857bc6282c14a3472cc20305ce1f
 
 Package: com.jinwk00.iterial-statusbar
 Version: 0.1.1
@@ -59,18 +59,18 @@ MD5Sum: 4d3f22a101cf0842fbc1a84e039a06fa
 SHA256: e7f494d8abf0fff3c06bb05637f64b38ec0fe844a60d4c3efbf387f797ceab3e
 
 Package: com.jinwk00.iterial-ui
-Version: 0.0.3
+Version: 0.0.4
 Section: Themes
 Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
 Architecture: iphoneos-arm
 Description: iTerial UI Icons
 Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.iterial-ui
-Filename: ./debs/com.jinwk00.iterial-ui_0.0.3_iphoneos-arm.deb
+Filename: ./debs/com.jinwk00.iterial-ui_0.0.4_iphoneos-arm.deb
 Name: Jin's iTerial-UI Icon Test
-Installed-Size: 196
+Installed-Size: 277
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: cc1cf38e5bf673ffc59650ebde011c05
-SHA256: e0eeb3593ff02f3957a8c579ba01ce38fe3fd4f907e877f0bc5bdd507a334a83
+MD5Sum: 8a9e2ae654b2a786c3f1e1ad6c28e672
+SHA256: 3f17f726c38e57e64c8fa4f60d1f3972a4d9ec0624b631a8fbb4e6ce08a34cbc
 
 

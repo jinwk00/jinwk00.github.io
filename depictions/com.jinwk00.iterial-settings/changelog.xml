@@ -28,4 +28,8 @@
 		<change>Full initial release.</change>
 		<change>Adds new color scheme, Material Color pack.</change>
 	</changes>
+	<changes>
+		<version>1.0.1</version>
+		<change>Added TV related icons.</change>
+	</changes>
 </changelog>

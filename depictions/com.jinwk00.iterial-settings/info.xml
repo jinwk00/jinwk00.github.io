@@ -1,7 +1,7 @@
 	<package>
 	<id>com.jinwk00.iterial-settings</id>
 	<name>Jin's iTerial-Settings Icon</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -22,9 +22,8 @@
 	</screenshots>
 	
 	<changelog>
-		<version>1.0</version>
-		<change>Full initial release.</change>
-		<change>Adds new color scheme, Material Color pack.</change>
+		<version>1.0.1</version>
+		<change>Added TV related icons.</change>
 	</changelog>
 	
 	<links>

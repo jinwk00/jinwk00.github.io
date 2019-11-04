@@ -1,7 +1,7 @@
 	<package>
 	<id>com.jinwk00.iterial-ui</id>
 	<name>Jin's iTerial-UI Icon</name>
-	<version>0.0.3</version>
+	<version>0.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -16,8 +16,8 @@
 	</descriptionlist>
 	
 	<changelog>
-		<version>0.0.3</version>
-		<change>Added even more.</change>
+		<version>0.0.4</version>
+		<change>Added chats and photos.</change>
 	</changelog>
 	
 	<links>

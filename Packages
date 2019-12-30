@@ -73,4 +73,17 @@ Author: jinwk00 <colinjinwk00@gmail.com>
 MD5Sum: 8a9e2ae654b2a786c3f1e1ad6c28e672
 SHA256: 3f17f726c38e57e64c8fa4f60d1f3972a4d9ec0624b631a8fbb4e6ce08a34cbc
 
+Package: com.jinwk00.libjinwk00
+Version: 1.0.0
+Section: Themes
+Maintainer: jinwk00
+Architecture: iphoneos-arm
+Description: libjinwk00
+Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.library
+Filename: ./debs/libjinwk00.deb
+Name: libjinwk00
+Installed-Size: 4
+Author: jinwk00
+MD5Sum: b5f676da686d51977b6ffc708f13b033
+SHA256: 8ae23dad27fbc5e59b8d8e9e7cadfb4dace5baabb54ddbc0b2b6cfff88d03171
 

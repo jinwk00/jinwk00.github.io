@@ -20,5 +20,10 @@
 			<url>https://paypal.me/jinwk00</url>
 			<iconclass>fa fa-paypal</iconclass>
 		</link>
+		<link>
+			<name>Donate for my works using Ko-Fi</name>
+			<url>https://ko-fi.com/jinwk00</url>
+			<iconclass>fa fa-coffee</iconclass>
+		</link>
 	</footerlinks>
 </repo>

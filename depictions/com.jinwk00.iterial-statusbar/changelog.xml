@@ -7,4 +7,8 @@
 		<version>0.1.1</version>
 		<change>Fixed bars.</change>
 	</changes>
+	<changes>
+		<version>0.2</version>
+		<change>Initial iOS 13 support.</change>
+	</changes>
 </changelog>

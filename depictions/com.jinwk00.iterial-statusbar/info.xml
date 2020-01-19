@@ -1,7 +1,7 @@
 	<package>
 	<id>com.jinwk00.iterial-statusbar</id>
 	<name>Jin's iTerial-Status Bar</name>
-	<version>0.2</version>
+	<version>0.2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -17,7 +17,7 @@
 	
 	<changelog>
 		<version>0.2</version>
-		<change>Initial iOS 13 support.</change>
+		<change>Antenna 3x support.</change>
 	</changelog>
 	
 	<links>

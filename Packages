@@ -29,19 +29,19 @@ MD5Sum: 7e4175f8702b63d21c895be5755910cf
 SHA256: 4fc72527a43d493adb69f9c42a25972f7f5de24a10edb95c722ef422ed514915
 
 Package: com.jinwk00.iterial-statusbar
-Version: 0.2
+Version: 0.2.1
 Section: Themes
 Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
 Architecture: iphoneos-arm
 Description: iTerial Status Bar Icons
 Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.iterial-statusbar
-Filename: ./debs/com.jinwk00.iterial-statusbar_0.2_iphoneos-arm.deb
+Filename: ./debs/com.jinwk00.iterial-statusbar_0.2.1_iphoneos-arm.deb
 Name: Jin's iTerial-Status Bar
-Installed-Size: 27
+Installed-Size: 35
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: 59026d67e91e3c1907f1873db1df4f17
-SHA256: c08930d5a5766b63d6efda430ec098a48aaf43102966f55b9aa823e102d6c07d
+MD5Sum: 3350b5706f3e11a8b4773c26f3462b04
+SHA256: 42a4908f9633f8986df2150243f791462a1fadc926ed100cdd72e4946ffe28e5
 
 Package: com.jinwk00.iterial-cc
 Version: 0.0.2

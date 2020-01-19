@@ -11,4 +11,8 @@
 		<version>0.2</version>
 		<change>Initial iOS 13 support.</change>
 	</changes>
+	<changes>
+		<version>0.2.1</version>
+		<change>Antenna 3x support.</change>
+	</changes>
 </changelog>

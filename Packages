@@ -14,19 +14,20 @@ MD5Sum: 4568183d0887615e1b1f4ed53964d6ca
 SHA256: 94a59b9cbfa32a61803feb3da2c20f61e9c682e5c24484ab0ea5a86dd19fe52e
 
 Package: com.jinwk00.iterial-settings
-Version: 1.0.1
+Version: 1.1
 Section: Themes
 Maintainer: jinwk00 <colinjinwk00@gmail.com>
 Pre-Depends: com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
+Depends: libjinwk00
 Architecture: iphoneos-arm
 Description: iTerial Settings Icons
 Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.iterial-settings
-Filename: ./debs/com.jinwk00.iterial-settings_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.jinwk00.iterial-settings_1.1_iphoneos-arm.deb
 Name: Jin's iTerial-Settings Icon
-Installed-Size: 1591
+Installed-Size: 4276
 Author: jinwk00 <colinjinwk00@gmail.com>
-MD5Sum: 6931ced61f9a97a21c5887e033b6508f
-SHA256: af93f8a75a0f2221ae2e63de82e825b5042a857bc6282c14a3472cc20305ce1f
+MD5Sum: a8e3ad515c5e368013aa0d4107f67e07
+SHA256: e6997773f9127a0da05bd3150472c32ac1c145b9adeb764354e3fecd67831ce0
 
 Package: com.jinwk00.iterial-statusbar
 Version: 0.1.1

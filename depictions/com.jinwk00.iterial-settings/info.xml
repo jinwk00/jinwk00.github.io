@@ -22,8 +22,8 @@
 	</screenshots>
 	
 	<changelog>
-		<version>1.0.1</version>
-		<change>Added TV related icons.</change>
+		<version>1.1</version>
+		<change>PreferenceOrganizer 2 support and initial iOS 13 support.</change>
 	</changelog>
 	
 	<links>

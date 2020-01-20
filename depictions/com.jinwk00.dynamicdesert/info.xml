@@ -1,0 +1,38 @@
+	<package>
+	<id>com.jinwk00.dynamicdesert</id>
+	<name>Flat Desert</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>wallpaperloader</package>
+	</dependencies>
+	<shortDescription>Flat-colored Dynamic Desert Wallpaper</shortDescription>
+	<descriptionlist>
+		<description>WARNING: You need wallpaperloader installed from skitty.xyz/repo</description>
+		<description>Requested by u/weltenvoraus</description>
+	</descriptionlist>
+	
+	<changelog>
+		<version>1.0</version>
+		<change>First release.</change>
+	</changelog>
+	
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+	<links>
+		<link>
+			<name>/r/iOSThemes</name>
+			<url>https://www.reddit.com/r/iosthemes</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

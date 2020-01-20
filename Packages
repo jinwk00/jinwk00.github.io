@@ -87,3 +87,17 @@ Author: jinwk00
 MD5Sum: b5f676da686d51977b6ffc708f13b033
 SHA256: 8ae23dad27fbc5e59b8d8e9e7cadfb4dace5baabb54ddbc0b2b6cfff88d03171
 
+Package: com.jinwk00.dynamicdesert
+Version: 1.0
+Section: Wallpapers
+Maintainer: jinwk00 <colinjinwk00@gmail.com>
+Pre-Depends: wallpaperloader
+Architecture: iphoneos-arm
+Description: Flat-colored Dynamic Desert Wallpaper
+Depiction: https://jinwk00.github.io/depictions/?p=com.jinwk00.dynamicdesert
+Filename: ./debs/com.jinwk00.dynamicdesert_1.0_iphoneos-arm.deb
+Name: Flat Desert
+Installed-Size: 1175
+Author: jinwk00 <colinjinwk00@gmail.com>
+MD5Sum: 25f9ac5a373d8a194a39b21996e54cb4
+SHA256: 7a0d238fbe58a4649ef005378ef9fac7f4973e8781c27c9bae8f5b20c34e6703
